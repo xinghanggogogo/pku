@@ -247,7 +247,7 @@ brass  n.黄铜(制品),铜管（乐器） adj.黄铜的
 bronze  adj.青铜色的 n.青铜, 青铜色, 青铜制品, 铜牌(第三名) vt.使成青铜色
 copper  adj.(紫)铜色的,铜(制)的 n.铜,铜币,铜制品
 aluminum  n.铝
-steel  n.钢, 钢制品, 坚强 adj.钢的,如钢铁般的,非常坚强的 vt.包钢, 使坚硬, 使下定决心
+steel  n.钢,钢制品,坚强 adj.钢的,如钢铁般的,非常坚强的 vt.包钢, 使坚硬, 使下定决心
 iron  adj.刚强的 n.铁, 熨斗, 坚强, (复数)铁制物 vt.熨烫(平), 用铁装备 vi.熨烫(平)
 ore  n.矿石
 magnet  n.磁铁,有强大吸引力的人或物
@@ -283,7 +283,7 @@ blanket n.毯子 (a electric blanket) adj.全面的(a blanket ban on smoking) v.
 assimilate  v.吸收(assimilate this famous artist's influlence),使同化(this community assimilate the refugee)
 similar  adj.相似的,类似的,相同,一样
 manual  adj.手工的,体力的(a manual labourer 体力劳动者) n.手册,指南,键盘(a training manual 训练手册)
-eve  n.前夕(on the eve of electionk, on the eve of the poll)
+eve  n.前夕(on the eve of election)
 very  adj.真正的,完全的,自己的,仅仅的,同一个,特别的, 正是(those were her very words 这是她的话) adv.真的,非常
 journey  n.旅程, 旅行, 行程 v.旅行
 tour  n.旅游, 观光旅行, 任期 v.旅行, 周游
@@ -332,7 +332,7 @@ alien  n.外侨;外星人 adj.外国的,相异的，陌生的 vt.转让
 paper  n.纸,文件,论文,报纸,票据 vt.用纸包,供纸,仓促完成 vi.贴壁纸 adj.纸制的,文书的,理论上的
 course  n.课程, 讲座, 过程, 路线(direct course, a vessel changed its its course), 一道(菜)
 section  n.零件,部分,章节,区域,部门,路段,断面 vt.划分,切开 vi.划分
-proportion  n.比例(the proportion of sth to sth), 均衡(to be out of proportion with sth), 部分(a large/small/certain proportion of ...) vt.使成比例(well/badly propotioned)
+proportion  n.比例,均衡,部分 vt.使成比例(well propotioned),使均衡,分摊
 proper  adj.适当的,正确的,合适的,正当的,规矩的
 segment  n.部门(population segment) v.部分,段,分割 vt.分割
 integral  adj.构成整体所必需的(to be a integral part of sth.),完整的(an integral design) n.[数学] 积分, 完整, 部分
@@ -634,7 +634,7 @@ tighten vt.使变紧(to tighten a lid or screw or rope or clip or spring) vi.绷
 lid  n.盖
 screw  n.螺丝钉 vt.拧上, 扭紧, 压榨, 欺骗, 强迫 vi.拧上(screw into sth 拧到某物上)
 clip  n.夹子,别针,回形针,修剪,剪下来的东西 vt.&vi.修剪,剪报,痛打,紧紧围住
-spring  n.春天, 弹簧(tension the spring), 弹跳, 泉水, 投射 vt.弹起, 使喷涌, 越过, 弹出, 释放, 发生, 跳, 裂开 vi.射出, 涌入(出), 发芽, 长高
+spring  n.春天, 弹簧, 弹跳, 泉水, 投射 vt.弹起, 使喷涌, 越过, 弹出, 释放, 发生, 跳, 裂开 vi.射出, 涌入(出), 发芽, 长高
 tight  adj.紧的, 严厉的,密集的,紧身的,拮据的 adv.紧紧地,牢固地, 迅速地
 clock  n.时钟, 计时器
 field  n.领域；牧场；旷野；战场；运动场 vi.担任场外队员 adj.扫描场；田赛的；野生的 vt.把暴晒于场上；使上场；(通常成功地)回答，处理(问题)
@@ -783,7 +783,7 @@ dome  n.穹顶, 半球状物
 belly  n.腹部 v.膨胀
 abdomen  n.腹部
 wisdom  n.智慧(a man of great wisdom), 学问(folk wisdom)
-wit  n.智力, 风趣, 才思 (to startle sb out of one's wit 失了智)
+wit  n.智力, 风趣, 才思
 brain  n.脑 vt.打...的头
 seldom  adv.很少(seldom if ever) adj.很少的
 random  n.随意,任意 adj.任意的,随便的,胡乱的 adv.随机地
@@ -874,8 +874,8 @@ suppose  vt.认为(it's a generally suppose that), 假定(suppose you are right)
 manipulate  v.操纵, 控制(manipulate the machine/partten)
 hypothesis  n.假设, 假说
 simulate  v.假装(she tried hard to simulate interest to what he said), 模仿
-imitate  vt.仿制仿造, 仿效模仿 
-imitation  n.效法(learn writing by imitation), 赝品(be aware of imitation) adj.人造的(imitaion jewel)
+imitate  v.模仿 vt.仿制,仿造,模仿,仿效
+imitation  n.效法(learn writing by imitation), 赝品(be aware fo imitation) adj.人造的(imitaion jewel)
 jewel  n.宝石 v.镶以宝石
 presume  vt.姑且认定，假定，推测，认为是理所当然 vi.假设，越权行事
 presumably  adv.推测上,假定上,大概
@@ -1272,7 +1272,6 @@ harassment  n.困扰, 烦扰 (a victim of harassment)
 victim  n.受害者,牺牲
 relevant  adj.有关的(all the facts relevant to that case)
 fascinate  vt.迷住(she really fascinate me.)
-fascinating  adj.迷人的
 barbecue  n.烤肉 v.烤肉
 helpful  adj.有帮助的, 有益的
 productivity  n.生产率(to improve productivity 提高生产率)
@@ -1321,7 +1320,7 @@ propaganda  n.宣传鼓动(people want to hear the truth, not propaganda.)(propa
 propagate  vi.传播, 繁衍
 propagation  n.传播, 繁衍
 campaign  n.战役(to mount or launch a campaign), 运动(wage a propaganda campaign), 秘密的破坏活动(a smear campaign 诽谤) vi.作战(after ten yeas of campaigning), 发起运动(i'm campaining hard to get the policy changed.)
-wage  n.薪水, 报偿, 代价 vt.&vi.开始, 进行(战争,运动)
+wage  n.薪水,报偿,代价 vt.&vi.开始,进行（战争、运动）
 smear  vt.涂抹(she smeared the eyeshadow on her eyelid), 使...模糊弄脏(don's smear the ink with you finger, don't smear the glass) vi.模糊脏了(the glass smeared) n.污渍, 诽谤
 eyeshadow  n.眼影
 eyelid  n.眼皮
@@ -1385,7 +1384,7 @@ salad  n.色拉
 sprout  n.芽, 萌芽 vt.使发芽(sprout the weed) vi.长芽(the weed sprout)
 weed  n.杂草, 懦弱的人 vi.除草 vt.除草(weed garden or vegetable plot)
 garden  n.花园, 果园, 菜园, 草地 vi.栽培花木, 从事园艺工作 vt.造园, 以花园装饰 adj.花园的, 园艺的, 绿化的, 平凡的
-vegetable  n.蔬菜, 生活单调乏味的人 adj.植物(性)的, 蔬菜的
+vegetable  n.蔬菜, 生活单调乏味的人 adj.植物(性)的i, 蔬菜的
 plot  n.阴谋(an assassination plot), 情节(follow the plot), (小块)土地(a plot of land) v.绘图(plot a way on the picture), 密谋(plot do/to do), 标记位置(plot the position)
 assassinaton  n.暗杀行动
 assassinate  v.暗杀
@@ -1720,7 +1719,7 @@ pursuit  n.追逐(in pursuit of an escaped prisoner, in hot pursuit), 爱好(lit
 escape  n.逃亡, 避难设备 vt.&vi.逃脱,避开 adj.逃避的
 prisoner  n.囚犯
 lecture  n.讲座(to give or attend a lecture), 训斥(give sb a lecture about honest) vt.训斥(lecture sb for doing) vi.讲课(he lectures on Spanish literature/in law)
-literary  adj.文学的(the literary property)
+literary  adj.文学的
 literature  n.文学(a work or course of literature), 宣传册(the literature of campaign 运动宣传手册)
 literacy  n.读写能力(literacy level)
 literate  adj.有读写能力的
@@ -1850,7 +1849,7 @@ likewise  adv.同样地(i will leave and i suggest you do likewise), 也(i'm wel
 spray  n.飞沫(sea spray, the spray of waterfall), 喷雾or喷雾器(throat spray), 喷洒(give those flowers a quice spray) vt.&vi.喷雾, 扫射, 喷射
 waterfall  n.瀑布
 throat  n.喉咙
-swing  n.摇摆(what you gain on the swings you lose on the roundabouts) vt.&vi.摇摆
+swing  n.摇摆 vt.&vi.摇摆
 museum  n.博物馆
 reproduce  v.复制(reproduce artefact or document), 再现(reproduce process or result), 繁殖(reproduce itself)
 artefact  n.人工制品
@@ -1987,7 +1986,7 @@ endow  vt.向...捐助(endow school or charity), 赋予(endow sb with sth, she i
 academic  n.高校科研人员, 学者 adj.学术的(style), 学业的(year), 理论的(question)
 craftsmanship  n.做工(high quality meterials and craftsmanship)
 quality  n.质量(good quality), 性质(the musical quality of her voice), 优质(i'm looking for quality not quantity)  adj.高品质的(the quality newspaper 高质量报纸)
-quantity  n.数量(a small/minute/large quantity of sth), 大量(a quantity of sth 大量)
+quantity  n.数量(a small/large quantity of sth), 大量(a quantity of sth 大量)
 bruise  n.擦伤瘀青 vi.擦伤 vt.使擦伤
 lavatory  n.盥洗室, 厕所
 envisage  vt.展望想象(evisage failure or prosperity or situation or secene or outcome, it's envisaged that 预想)
@@ -1996,6 +1995,7 @@ nasty  adj.肮脏的, 下流的, 令人讨厌的, 恶劣的, 艰险的, 严重�
 liquid  adj.液体的, 液态的 n.液体
 decimal  adj.十进制(decimal currency), 小数的(number) n.小数(convert 4/5 to decimal)
 accommodation  n.住处(a accommodation to let), 和解(reach an accommodation)
+greet  vt.问候,致敬,欢迎,映入眼帘
 handle  n.柄把手(hold sth by handle), 理解(to get the handle of sth, give sb the handle of sth), 头衔(have a handle to one's name) vt.买卖, 处理, 操作 vi.驾驭(to handel well/badly)
 wonder  n.惊奇(a sence of feeling wonder, in wonder 惊奇), 奇迹(the wonder of the modern world), 奇妙(the wonder of the poetry) adj.奇妙的(a wonder drug) vt.想知道, 惊讶(i'm wonder that) vi.思忖(wonder about), 感到惊奇(wonder at sth), 感到惊讶
 
@@ -2867,7 +2867,7 @@ crisis  n.危机(to be in or to reach a crisis, personal or emotional crisis 感
 dissipate  vt.驱散消除平息(dissipate fog or mist or cloud or fear or anger or hope), 浪费耗尽(dissipate energy or fortune or talent) vi.消散消失
 adore  v.敬爱(person), 宠爱(animal), 喜爱
 slum  n.贫民窟(slum clearance) vi.过穷日子(they spend their leisure time slumming and visiting lowlife bars)
-leisure  n.空闲(to do sth at leisure) adj.空闲的
+leisure  n.空闲 adj.空闲的
 peel  n.皮 vt.使脱皮 vi.脱皮
 reluctant  adj.不情愿的(i prised the letter from his reluctant fingers, to be reluctant to do sth)
 prise  vt.撬开
@@ -2999,7 +2999,7 @@ celery  n.芹菜
 
 amid  prep.在...中(the firm collapsed amid allegations of fraud)
 allegation  n.指控(to make an allegation against sb)
-fraud  n.骗子(to be a fraud), 诈骗(to commit fraud 实施诈骗) 
+fraud  n.骗子(to be a fraud), 诈骗(to commit fraud) 
 mutual  adj.相互的(the mutual feeling), 公同的(mutual friend)
 foster  v.养育培养(foster a child or the sense of sth)
 bubble  n.泡沫, 气泡, 幻想, 骗局, 欢乐 vi.起泡, 出现, 洋溢 vt.使冒泡
@@ -3709,7 +3709,7 @@ bolt  n.门闩, 螺钉, 剑弩, 闪电(a bolt of thunder) vt.闩住, 用螺栓�
 shatter  vt.打碎(the person or event shatter the glass or window or peace or life or person) vi.碎裂(the vase or glass shatter)
 vase  n.花瓶
 scent  n.气味香味(the scent of sth), 臭迹线索(pick the scent of sth), 香水(wear scent) vt.嗅出发觉(scent the drugs or danger), 使充满香味(scent my hear)
-commission  n.委员会(a commission on human rights), 佣金(to work for sb on tidy commission), 委托(to have a commission to do)  vt.委托(commission investigate), 使投入使用(commission the vehicle)
+commission  n.委员会(a commission on human rights), 佣金(to work for sb on commission), 委托(to have a commission to do)  vt.委托(commission investigate), 使投入使用(commission the vehicle)
 negotiate  vt.协商(negotiate the sale or loan or aggreement), 顺利通过(negoniate the bend), 解决(negotiate the problem), 转让(negotiate the cheque) vi.协商(to negotiate about/for/over sth)
 correlate  vi.相关联(to correlate with sth) vt.显示...的关联(to correlate sth and sth)  
 fatal  adj.致命的毁灭性的(she sustained fatal injuries, to be fatal to sth)
@@ -3948,7 +3948,6 @@ cut  n.切口,割伤,降低,份额,删节,割下的一块肉 vt.切割,减少,�
 trigger  n.扳机, 触发器, 触发因素(to act as the trigger for sth) vt.启动(trigger the mechanism), 触发(trigger the explosion or strike or reaction)
 consequently  adv.因此(she was the youngest child and consequently spoilt)
 dread  n.恐惧(stand in dread of sb/sth), 可怕的人或物(an impoverished old age is the dread of many people) vt.恐惧(dread to do sth)
-dreadful  adj.令人恐惧的
 impoverish  vt.使贫穷(impoverish the society or soil)
 impoverished  adj.贫穷的(an impoverished old age)
 sharp  adj.尖锐的(a sharp angle or corner or feature), 刺耳的, 急剧的 adv.[时刻]正准(at 9 o'clock sharp) n.夏普(财富500强公司之一, 总部所在地日本, 主要经营电子电气)
@@ -3981,7 +3980,7 @@ crop  n.庄稼(the rotation of crops), 收成(a bumper crop), 一群 vt.割掉, 
 rotation  n.轮转
 rotate  vt.&vi.(使)旋转, 轮换
 rotary  adj.旋转的(rotary motion/movement/switch) n.环形交叉路
-bumper  adj.丰收的(a bumper crop or harvest)
+bumper  adj.丰收的(a bumper crop)
 patron  n.赞助人, 老主顾
 chat  n.聊天,闲谈 vt.&vi.谈天,闲谈
 chain  n.链(a bicycle chain), 束缚(the chains of poverty), 一系列(a chain of events), 连锁(a supermaket chain) vt.用铁练栓住
@@ -4054,189 +4053,168 @@ quotation  n.引用
 quote  n.引用 v.引用(quote a passage from ..., to quote sb/sth as an example), 报价(yesterday the pound was quoted at $1.8285)
 quota  n.定额(to do one's quota 做好自己的分内事), 限额(to fix/impose a quota on sth, meet the quota)
 mosquito  n.蚊子
-tropical  adj.热带的(tropical region or climate or plants or disease), 炎热的(tropical heat or condition)
-moderate  adj.中等温和适度的节制(moderate size or speed or policy or languate or appetite) n.温和派 vt.变的中等温和适度节制 vt.使中等温和适度节制
-accumulate  vt.&&vi.积累(accumulate interest or worries or evidence, a pile of dust had accumulated in the fireplace)
-feast  n.宴会(enough is as good as a feast), 节日(a feast of music) vt.设宴招待(to feast sb with sth), 使...尽情享受(feast your eyes with sth) vi.山吃海喝(feast on sth)
-festival  n.,节日, 艺术节 
-south  adj.南方的 adv.在南方 n.南, 南方
-install  vt.安装, 使...就职(to install sb in office), 安置(he is comfortably installled before the TV) 
-waitress  n.女服务员
-bother  vt.烦扰(bother sb with sth) vi.操心(to bother with/adout/to do sth) n.烦扰(to put sb to the bother of doing sth), 烦人的人或者事
-antique  adj.古代的(antique weapon), 古式的(antique mirror) n.古董
-roundabout  adj.迂回的(to come by a roundabout way, to ask in a roundabout way) n.旋转木马(what you gain on the what you gain on the swings you lose on the roundaboutsswings you lose on the roundabouts)
+
+tropical  adj.热带的, 炎热的, 热带植物的
+moderate  adj.适度的, 稳健的, 温和的, 中等的 v.节制, 使...稳定, 使...缓和 n.稳健的人
+accumulate  vt.积聚,累加,堆积 vi.累积
+feast  n.宴会,酒席,节会 vt.&vi.款宴,享乐,请客
+
+south  adj.南方的 adv.在南方 n.南,南方
+roundabout  adj.绕道的，迂回的 n.远路，环形交叉路口 n.(英)旋转木马 n.紧身短上衣
+waitress  n.女侍者, 女服务员
 craft  n.工艺, 手艺, 狡诈，航空器, 行会成员 vt.手工制作
-loom  n.织布机 vi.可怖地出现(to loom from/through/over sth, my teacher loom over my back)
-bearing  n.轴承, 举止(of soldierly bearing), 关系(have no bearing with), 方位(the bearing is 137°)
-motivate  vt.促动(to be motivated by sth), 调动积极性(a teacher who can motivate her pupils)
+loom  n.织布机,若隐若现的现象 vi.朦胧地出现,隐约可见,可怖地出现
+bearing  n.[机] 轴承；关系；方位；举止 v.忍受（bear的ing形式）
+bother  vt.烦扰 vi.烦扰,操心 n.烦扰
+antique  adj.古代的 n.古物, 古董
+motivate  v.给与动机,刺激,提高...的学习欲望
+install  v.安装,安置,使...就职 n.[计算机] 安装,DOS命令 : 装入结束且驻留软件
+vicinity  n.邻近,周边地区
+rare  adj.稀罕的, 罕见的, 珍贵的
+concerning  prep.关于
 chess  n.国际象棋
-rare  adj.罕见的(the rare disease, it's rare for sb to do sth), 珍惜的(rate animals/plant), 半熟的(the rare steak)
+donkey  n.驴子；傻瓜；顽固的人
+satisfaction  n.赔偿,满意,妥善处理,乐事,确信
+reap  vt.收割,收获,获得 vi.收割
 steak  n.牛排
 woman  n.妇女, 女人
+thereafter  adv.其后, 从那时以后
+uncover  vt.揭开,揭露
+aware  adj.知道的, 意识到的
+entrance  n.入口 v.使出神,使入迷 vt.使出神
+forthcoming  adj.即将到来的
 ant  n.蚂蚁
-nervous  adj.紧张焦虑的, 神经质的
-previous  adj.在...之前的(the previous day/year/engagement 昨天)
-engagement  n.婚约, 约会(a previous/prior engagement 前约/预约), 雇用(the engagement of the company as ...), 交战(an engagement of sb)
-learning  n.学问学识(be full of learning), 学习
-vicinity  n.邻近地区(in the immediate vicinity of Oxford/the explosion), 大约(in the vicinity of 10)
-concerning  prep.关于(dreadful stories concerning a horrible beast)
-horrible  adj.令人恐惧骇人听闻的, 令人讨厌的
-donkey  n.驴
-satisfaction  n.满意(derive satisfaction out of sth, the satisfaction of your every wish is our desire), 赔偿(in full and final satisfaction)
-derive  vi.起源于(the word drive from Italy) vt.获得(derive sth from sth), 衍生(the word is drived from Italy)
-reap  vt.收割(we reaped a bumper harvest this year), 收获(to reap the rewards of one's efforts) vi.收割
-reward  n.报酬回报(as a reward for sth) vt.给...报酬(reward sb fro sth), 值得(it's a subject that rewards further investigation) 
-thereafter  adv.从那时以后(thereafter their fortunes suffered a steep decline)
-uncover  vt.揭露(uncover the scandal or fraud), 揭开...的覆盖物(uncover the object)
-aware  adj.意识到的(to be aware of sth, to be politically/eviormentally aware 有政治觉悟/环保意识)
-entrance  n.入口(the entrance of sth), 进入(a sudden entrance 突然造访, make an entrance 进入) vt.使...入迷(to be entranced at or by sth)
-forthcoming  adj.即将到来的(forthcoming publications or movies, no information was forthcoming from the government), 乐于助人的(his manner was not at all forthcoming)
-manage  vt.完成(to manage to do sth), 能应付(manage sth), 经营管理(department or hotel), 开发(land or forest) vi.应付过去(I can manage by myself), 经营
-skate  n.冰鞋 vt.滑出(to skate one's way to sth) vi.滑冰(to go skating)
-bore  n.令人讨厌的人, 口径, 涌潮 vt.使感到厌烦(to bore sb to death), 在...钻孔, 挖 vi.钻孔(her eyes bored into me)
-sight  n.视力(good sight), 看见(love at first sight, get a sight of sth), 视野(to be within sb's sight), 景观(a familiar sight) vt.看见, 观看 vi.瞄准
-outrage  n.愤慨(to express/feel/spark outrage), 暴行(to commit outrages against the people), 侮辱(an outrage against decency/dignity/justice) v.凌辱, 虐待
+manage  vt.管理,处理,维持,达成,经营 vi.管理,达成
+nervous  adj.紧张的,焦虑的,神经质的
+skate  n.冰鞋 v.滑冰 vi.溜冰, 滑冰
+bore  vbl.忍受(动词bear的过去式) n.令人讨厌的人,枪膛,孔,井眼,枪管口径,涌潮 vt.使感到厌烦,钻孔,挖 vi.挖掘,开凿
+previous  adj.在...之前, 先, 前, 以前的
+learning  n.学问, 学识, 学习 动词learn的现在分词
+engagement  n.诺言, 约会, 婚约, 交战, 雇用, (机器零件等)啮合
+sight  n.景观, 视力, 眼界 vt.看见, 观看 vi.瞄准
+outrage  n.暴行,侮辱,愤怒 v.凌辱,虐待,触犯
 fluent  adj.流利的, 流畅的
-hop  n.单脚跳, 跳跃 vi.单脚跳, 跳跃 vt.跳跃
-portrait  n.肖像(a family portrait), 描绘(the writer builtd a full and fascinating portrait of working life in America)
-recovery  n.康复恢复(she is well on way to recovery, the slow recovery of her hearing or sight), 回收收回(recovery of expenses is a priority)
-priority  n.优先事项(the main/highest/high/low priority), 优先(take the priority over sth) adj.享有优先权的(the priority list)
-dorm  n.集体宿舍
-inhabit  vt.居住于(people inhabit in sp), 栖息于(animals inhabit in sp)
+hop  n.单脚跳,跳跃 vi.单脚跳,跳跃,着手做某事 vt.跳跃,跃过
+portrait  n.肖像,画像 adj.(文件页面)竖的
+recovery  n.恢复,复原,痊愈
+dorm  n.(集体)宿舍
+inhabit  v.居住于, 占据, 栖息
 careful  adj.小心的, 仔细的
 myself  pron.我自己
+expertise  n.专家的意见,专门技术
 morning  n.早晨, 上午, 开端
-clone  n.克隆, 无性繁殖, 复制品 vt.克隆, 复制
-expertise  n.专长(to have/lack the expertise in/to do sth)
-lad  n.男孩儿男青年, 浪子(Tony was a bit of a lad, and he always had an eye for the women), 哥们(go to play with lads)
-eccentric  n.怪人(what a eccentric!) adj.古怪的(eccentric person or appearance or habit)
-spend  vt.花费(spend money), 度过(spend their leisure time) vi.花钱(he spends as if money grew on trees) n.花费(the average spend at the restaurant)
-witch  n.女巫, 巫婆, 臭老太婆, 迷人的女子
-tension  n.紧张紧张关系紧张氛围(there is mounting tension along the border), 张力(the tension of the sail) vt.绷紧(tension the cable or sail or spring)
-sail  n.帆, 乘船航行(how many days' sail is it from A to B?) vt.在...航行(sail the sea), 驾驶(sail the boat) vi.驾船航行(go to sailing)
-benign  adj.和善(benign person or expression), 怡人的(benign climate), 良性的(benigh tumor)
-tumor  n.肿瘤(benign tumor)
-tunnel  n.隧道, 地下通道 vt.挖(tunnel one's way through sth) vi.挖隧道(to tunnel throuth/under/in sth)
-mill  n.磨粉机, 磨坊, 制造厂, 使陷于困境(to go through the mill) vt.磨, 制造(mill steel or textiles)
+horrible  adj.可怕的,令人毛骨悚然的,令人讨厌的
+clone  n.克隆，无性繁殖，复制品 v.克隆，复制
+lad  n.少年, 小伙子
+eccentric  n.怪人 adj.古怪的, 反常的
+spend  v.(spent,spent) 花费,浪费,度过
+witch  n.女巫, 巫婆 vt.施巫术 vi.用神杖发现地下水源或矿物
+tension  n.紧张,张力,拉力 vt.（使金属线、帆等）拉紧
+benign  adj.仁慈的,温和的,良性的
+tunnel  n.隧道,地下道 v.挖隧道
+mill  n.磨粉机, 磨坊, 制造厂, 密尔:一种货币单位, 使陷于困境 vt.磨细 vi.乱转, 磨细
+house  n.房子,住宅,全家人,议院 vt.提供住,安置, 收容 vi.居住, 躲避
 creature  n.生物, 动物, 人
-house  n.房子, 住宅, 全家人, 议院 vt.提供住, 安置, 收容 vi.居住, 躲避
-panel  n.镶板(glass or wooden or metal panel), 控制板(an instrument/display panel), 评委小组(on our panel tonight we have ...) vt.用镶板镶(to panel a wall with oak, a panelled door/ceiling 镶板门/天花板)
-regret  vt.为...感到后悔(I regret my decision, regret to doing sth), 为...感到惋惜(we regret to hear that you have been ill), 为...感到遗憾(your court case is not going at all well, I regret to say) n.后悔(express regret for one's action), 惋惜(our regret at his death), 歉意 
-continent  n.大陆(the Asian continent), (the Continent)欧洲大陆
-Asian  n.亚洲人 adj.亚洲的, 亚洲人的
-brush  n.刷子(brush for painting), 刷(give sth a brush), 轻抚(I felt the brush of the bird's wing against my cheek), 灌木丛 vt.刷掉(to brush sth off sth), 拂过(her skirt brushes the ground as she walks) vi.拂过(to brush against sb/sth)
-sample  n.样品(free samples 免费样品, sample question 样题), 样本(take sample of sth 抽样, a representative/limited sample) vt.抽样调查(sample the product or opinion), 品尝(to sample the pleasure of being waited on)
-investment  n.投资(he called for more government investment, a good/bad investment, a huge emotional investment)
-tidy  n.容器(a desk tidy) adj.整洁的(to make sth tidy), 可观的(he earns a tidy commission on every sale, a tidy penny 一大笔钱) vt.使整齐(to tidy oneself 梳洗打理)
-penny  n.美分便士, 小钱
-minute  n.分钟, 片刻(just a minute, i'll only be a minute 马上就好), 会议记录备忘录(a Treasury minute 财政部备忘录) adj.微小的(a minute quantity of sth), 详细的(in minute detail) vt.记录(minute the meeting)
-treasure  n.宝物珍宝, 心肝宝贝 vt.珍爱(he treasures his books or gift or love or souvenir) ==注意读音
-treasury  n.财政部, 财政收入(the treasuries of the Arab States)
-Arab  adj.阿拉伯的
-mayor  n.市长 [ˈmeɪə]
-age  n.年龄，时期，很长时间 vt.(使)变老 vi.变老,(使）变成熟
-because  conj.因为
-meanwhile  adv.同时 n.其时,其间
-modern  adj.现代的, 时髦的 n.现代人, 时髦的人
-chronic  adj.慢性的(chronic illness or patient), 惯常的(chronic liar), 糟透的(chronic performance)
-revenue  n.收入(public or private or tax or oil revenue)
+correspond  vi.符合,通信,相当
+panel  n.镶板； 面； （门、墙等上面的）嵌板； 控制板 vt.选定（陪审团）； 把…分格； 在…上置鞍垫； 把…镶入框架内
+regret  n.遗憾, 后悔, 抱歉 v.为...感到遗憾, 后悔, 惋惜
+continent  n.大陆, 洲, (the Continent)欧洲大陆
+brush  n.刷子,画笔,轻擦,小冲突, 灌木丛 vt.用刷子清洗,画,拭去,打发 vi.轻擦,拂拭
+sample  n.样品,标本 vt.采样,品尝 adj.样例的
+investment  n.投资,投入,投资额
+tidy  n.(沙发, 椅子等的)背罩, 装杂物的容器 adj.饱满的, 令人满意的, 整洁的, 可观的 vt.使整齐 vi.整理
+minute  adj.微小的,不重要的,详细的 n.分钟,一会儿,会议记录 vt.记录
+mayor  n.市长
+modern  adj.现代的,时髦的 n.现代人,时尚人士
+chronic  adj.长期的,慢性的,惯常的
+revenue  n.总收入; 财政收入, 税收 n.税务局
 club  n.击棍,扑克牌中的梅花,俱乐部 vt.用棍棒打,集合 vi.集合,分担花费,泡夜总会
-neither  int.两者都不 conj.都不(neither Peter nor I was there)
-property  n.财产(personal/public property), 房地产(property manager 房产管家), 所有权(literary/intellectual property), 特性(a herb with medicinal properties) 
-hike  n.远足(to go for a hike), 大幅度提高(wage or price hike 大幅上涨) vi.远足 vt.突然拉动或提高(hike the socks, hike the price)  
-band  n.乐队, 一帮人(a band of troublemaker), 带状物(a band of sunlight), 年龄段(he was in the under-16 age band) vt.将...分类, 给...装上箍
-table  n.桌子, 平地层, 石板, 表格 vt.搁置, 嵌合, 制表 adj.桌子的
+neither  adj.皆不,两者都不 int.两者都不 conj.既非,既不
+age  n.年龄，时期，很长时间 vt.(使)变老 vi.变老,(使）变成熟
+property  n.财产; 性质; 道具
+because  conj.因为
+hike  n.徒步旅行,远足,涨价 vi.远足,提高 vt.突然拉动或提高,涨...的价,徒步跋涉过
+band  n.带;箍,队,乐队 vt.&vi.联合,结合
+meanwhile  adv.同时 n.其时,其间
+recollect  v.回忆, 回想, 忆起
+exterior  n.外部, 表面, 外型 adj.外部的, 外在的, 表面的 [计算机] 外部的
+host  n.[计算机]主机； 主人，东道主； 节目主持人； 酒店业主 vt.当主人； 主办宴会，主持节目； 款待，做东 vi.做主人，做东道主
+wretched  adj.可怜的, 不幸的, 卑鄙的，质量差的，恶劣的
+disturb  vt.&vi.扰乱,妨碍,使...不安
+table  n.桌子, 平地层, 石板, 表格 vt.搁置, 嵌合, 制表 adj.桌子的
 alone  adj.单独的,仅仅，独自一人的 adv.只有,独自地, 独一无二地
+accustom  v.使...习惯
+alienate  v.使...疏远,离间,让与
+allegiance  n.忠诚
+ape  n.猿
+bail  n.杓,保释,保证金,担保人,把手 vt.往外舀水,保释,使摆脱困境 vi.舀空
+botany  n.植物学，植物
+buzz  n.嗡嗡声 vi.发出嗡嗡声,充满,匆忙 vt.飞进,使嗡嗡叫
+censorship  n.检查制度
+contagious  adj.传染性的,会蔓延的,会传播的
+converge  vi.聚合,集中于一点 vt.使集合
+daunt  vt.恐吓(使...胆怯)
+debut  n.初次登场 vt.&vi.初次登场
+default  n.假设值,默认(值),不履行责任,缺席 v.默认,不履行义务,缺席,拖欠 [计算机] 缺省
+defer  vt.延期, 缓召, 把...委托给他人 vi.耽搁, 延误, 遵从
+deplore  vt.悲叹，谴责，对…深感遗憾
+diabetes  n.糖尿病
+quiver  v.颤抖, 振动 n.震动, 颤抖, 箭袋，箭袋内的箭
+malignant  adj.有恶意的,恶性的,有害的 n.怀恶意的人,保王党员
 anybody  n.重要人物 pron.任何人
+confident  adj.确信的, 自信的
+graphic  adj.生动的,图表的 n.图表
+miserable  adj.悲惨的,痛苦的,贫乏的
+pigeon  n.鸽子
+terminate  adj.有结尾的,有限的 vt.结束,终止,满期 vi.达到终点
+farmer  n.农夫
 late  adj.迟的,晚的,已故的 adv.很晚,很迟,晚, 最近地
-terminal  n.终端机, 终点站, 航空站, 码头 adj.终点的, 晚期的(a terminal patient), 致死的(be in terminal decline, a terminal crisis)
-terminate  vt.结束终止(terminate the discussion or contract), 解雇(terminate employee) vi.结束终止, 达到终点(the train has terminated)
+terminal n.n.终端机,终点,末端 adj.终点的,晚期的,致死的
+recede  vi.后退,减弱 vt.撤回
+delicate  adj.细致优雅的,微妙的,美味的 adj.淡色的,淡味的 adj.娇弱的,纤细的
+continuous  adj.连续的, 继续的, 连绵不断的
+switch  n.开关, 电门，闸，转换器, vt.&vi.鞭打，转轨，交换，突然转变, 摆动，接通或切断…电流
 son  n.儿子
 run  n.奔跑,路程,趋向 vt.跑,放牧,经营,走私,使运转,浇铸,使遭受 vi.跑,竞赛,行驶,运转,遭遇,持续,熔化,褪色,流,蔓延,传播 adj.熔化的,浇铸的,洄游的
-accustom  vt.使...习惯(to accustom sb to sth/to doing sth)
-farmer  n.农夫
-botany  n.植物学
-ape  n.猿
-pigeon  n.鸽子
-diabetes  n.糖尿病
-miserable  adj.痛苦的(to feel miserable, to make sb's life miserable), 悲惨的(miserable failure), 贫乏的(miserable quantity)
-recede  vi.后退(flood waters receded), 渐远(to recede into the distance), 减弱(danger recede), 模糊(memory recede) ==go or move back or further away from a previous position
-allegiance  n.忠诚(to swear allegiance to sb/sth 宣誓效忠)
-disturb  vt.&vi.打扰(do not disturb), 使...不安(it disturbs me to hear you say that), 弄乱(something had disturbed the surface of the lake)
-censorship  n.审查, 审查制度(to exercise/lift censorship 执行/撤销审查)
-default  n.假设值,默认(值),不履行责任,缺席 v.默认,不履行义务,缺席,拖欠 [计算机] 缺省
-confident  adj.自信的(confident speech or manner), 确信的(to be confident that ...)
-graphic   n.图表 adj.生动的(a graphic description of the horrors of war), 图表的(graphic information)
-continuous  adj.连续不间断的(continuous line or growth or decline or love) 
-switch  n.开关, 电门, 闸, 转换器 vt.&vi.鞭打, 转轨, 交换, 突然转变, 摆动, 接通或切断...电流
-recollect  vt.回忆起(i can recollect meeting the Governor) vi.回忆(as far as I recollect 据我回忆)
-exterior  n.外部(on the exterior), 外表 adj.外部的(exterior walls or door or use), 外景的(exterior shot)
-host  n.主机, 主人, 东道主, 节目主持人, 酒店业主 vt.当主人, 主办宴会, 主持节目, 款待, 做东
-wretched  adj.悲惨的(I felt so wretched because I thought I might never see you again), 质量差的恶劣的(the wretched conditions of the slums), 烦人的(she disliked the wretched man intensely)  ==(of a person) in a very unhappy or unfortunate state:
-alienate  v.使...疏远(an urban environment that would alienate its inhabitants ), 使...脱离(the association does not wish to alienate its members) 
-inhabitant  n.居民
-bail  n.保释(to be on bail, to stand bail for sb) vt.往外舀水, 保释(he was bailed to appear in court tomorrow), 使摆脱困境(bail out sb)
-buzz  n.嗡嗡声(the proposals were greeted with a buzz of approval 七嘴八舌, what's the buzz 嚼什么舌呢) vi.发出嗡嗡声 vt.使嗡嗡叫
-greet  vt.迎接(the delegation was greeted warmly by the mayor), 打招呼(she greeted him with a warm smile), 对...做出反应(the crowd greeted the news with cheering), 突然被感知(a lovely smell greeted me)
-delegation  n.代表团(members of the official delegation 官方代表团成员)
-greeting  n.打招呼(he waved at me in greeting), 祝辞(New Year greetings)
-contagious  adj.传染性的(contagious disease or person), 会蔓延的(contagious laugher or optimism)
-converge  vi.交汇(the lines or roads or people or views or theories converge on sb/sth/sp)
-daunt  vt.使...胆怯(be daunted by sth, nothing daunted 无所畏惧)
-debut  n.&&vt.&&vi.初次登场(a debut performance or album, to make one's screen debut)
-defer  vt.推迟(to defer making a decision or sentence, defered payment) vi.遵从(defer sb to do sth)
-deplore  vt.强烈谴责(deplore the fact that ...) 
-quiver  vi.发抖, 颤抖(to quiver with rage/fear/cold) n.颤抖(there was a quiver in his voice)
-malignant  adj.有恶意的, 恶性的, 有害的 n.怀恶意的人
-delicate  adj.细致优雅的(delicate movement), 微妙的娇弱的(delicate leaf or flower) ==精致的
-twist  n.卷曲物, 旋转, 扭曲, 曲解, 转折(体) vt.拧, 缠绕, 扭(曲) vi.蛇行, 变形, 转
-lend  vt.借出(lend sb sth), 贷(lend money at 10%), 给予(lend support to sth), 增添(his presence lent dignity to the occasion) vi.贷款(to lend against sth)
-chart  n.图表 vt.制成图表(chart the land), 标示(the navigator chart the route)
-medical  adj.医疗的(medical condition/equipment), 医学的(a medical professional/journal 医学专业人士/期刊)
-statistical  adj.统计的(statistical evidence or error or analysis)
+twist  n.卷曲物,旋转,扭曲,曲解,转折(体) vt.拧,缠绕,扭(曲) vi.蛇行,变形,转
+lend  vt.借,贷款,给予,增添 vi.贷款
+chart  n.图表 vt.制成图表
+medical  adj.医疗的,医学的,药物的,需治疗的
+cruise  n.巡航,巡弋,漫游 vi.乘船游览,慢速行驶,巡行,猎艳 vt.巡游,猎艳
+statistical  adj.统计的, 统计学的
 request  n.要求, 请求 vt.请求, 要求
-cruise  n.&&vt.&&vi.乘船游览(go on a cruise), 巡航, 猎艳
+startle  n.惊愕, 惊恐 v.吃惊, 使...惊愕
 delicious  adj.可口的, 美味的
-
---------------------
-
-poll  n.投票(on the eve of the poll), 票数(to head the poll 票数领先), 选民名册, 民意调查(to conduct or carry out a poll) vt.做民意测验( poll housewives for their opinions), 获得(poll votes), 剪树枝  vi.获得选票(the party polls heavily)
-beware  vt.谨防(beware taking your parents for granted 别把你父母不当回事) vi.小心(beware of pickpockets)
-pickpocket  n.扒手
-elastic  adj.有弹性伸缩性的的(string or concept or definition) n.有弹性的东西
-concept  n.概念(a philosophical concept)
-definition  n.定义(by definition), 清楚(his ideas lack definition), 清晰度(a photo with good/bad definition)
-startle  vt.使...受惊(to startle sb out of their wits)
-shoulder  n.肩膀(to carry sb on one's shoulders) vt.肩负, 承担(shoulder the blame or responsibility), 用肩推挤(to shoulder sb aside/out of the way)
+shoulder  n.肩膀, 角度, 交接处 vt.肩负,承担,用肩推挤 vi.用肩推挤
+poll  n.投票,民意测验,民意,票数 vt.做民意测验,获得...票,剪树枝  vi.投票
+beware  v.小心, 谨防
 fourteen  num.十四
+elastic  adj.有弹性的,灵活的,可变的 n.橡皮圈,有松紧的东西
 as  adv.同样地, 像 prep.当做 conj.当...之时, 像...一样, 因为
 our  pron.我们的
 first  adv.首先,第一,优先 adj.第一的, 最早的, 一流的 n.(序数词)第一, 第一个人或事物, (大学学位的)最优等, (汽车, 自行车等的)最低挡
-sorry  adj.对不起的,  无价值的, 低等的,  遗憾的, 感到伤心的
+sorry  adj.对不起的； 无价值的，低等的； 遗憾的； 感到伤心的
+everyday  adj.每天的,日常的 b.平常的日子
+text  n.本文, 文件, 正文, 课文 vt.&vi.发短信
+ban  n.禁令 v.禁止 vt.禁止,取缔
 counter  n.计算器,计算者,柜台  [计算机] 计数器 adj.相反的  adv.与…相反地  vt.反对,反击  vi.反对,反击
+dragon  n.龙，严厉的人
 stool  n.凳子, 搁脚凳,便桶,根株 vi.引诱
 verdict  n.裁定, 定论
 shake  n.摇晃,震动,地震,颤抖(音),奶昔,短时间 vi.摇晃,颤抖,跌跌撞撞,握手,发颤音 vt.挥拳,摇晃,去除,动摇,排掉(灰尘),握手
 restless  adj.不安宁的, 焦虑的
-directly  adv.直接地(the two phenomena cannot be directly compared, she left directly after the show, to be directly proportional to ... 与...成正比) conj.一...就(directly he saw me, he stopped)
-proportional  adj.成正比例的(to be proportional to sth)
-everyday  adj.每天的, 日常的 b.平常的日子
-text  n.本文, 文件, 正文, 课文 vt.&vi.发短信
-ban  n.禁令 v.禁止 vt.禁止, 取缔
-dragon  n.龙, 严厉的人
-
-impulse  n.冲动(have a sudden impulse to do sth),  驱动力(an impulse towards economic recovery), 脉冲(nerve or electrical impulse)
-paperback  n.平装版(a paperback book/version)
-nap  n.小睡(to have or take a nap), 绒毛(to brush with/against the nap) vi.小睡(to cat sb napping)
-kidnap  vt.绑架(kidnap the president) n.绑架罪(kidnap victims)
-bathe  vt.浸洗(to bathe one's wounds, the athlete was bathed in sweat) vi.游泳, 洗澡(go bathe) c.游泳
-vegetation  n.植被, 无所事事
+directly  adv.直接地(立即,完全)
+nursery  n.托儿所
+impulse  n.冲动, 驱动力, 倾向, 心血来潮 vt.推动
+paperback  n.纸封面本, 普及本, 平装书
+kidnap  v.绑架,诱拐,拐骗
+festival  adj.节日的,喜庆的,快乐的 n.节日,庆祝及祭祀,欢宴
+bathe  v.沐浴, 用水洗，沉浸
+noun  n.名词
+vegetation  n.植物,草木,(植物)生长
 clothe  vt.穿上, 覆上, 授以，赋予，表达
 cement  n.水泥,纽带,接合剂,牙骨质,补牙物,基石 vt.接合,用水泥涂 vi.接合起来
 deteriorate  vt.(使)恶化 vi.(使)恶化, 瓦解, 衰退
-nursery  n.托儿所
-noun  n.名词
-
 data  n.(datum的复数)资料,数据
 dealer  n.经销商；商人；发牌者，庄家；[俚语]毒品贩子，贩毒者
 grateful  adj.感激的, 感谢的
@@ -4323,6 +4301,7 @@ enterprise  n.企业,企划,进取心
 attorney  n.(辩护)律师
 bump  n.撞击,表面隆起,肿块 vt.& vi.碰撞,颠簸而行
 fish  n.鱼，鱼肉 v.钓鱼，捕鱼
+reward  n.报酬,报答,赏金 vt.给...报酬,奖赏
 absorb  v.吸收,吸引...的注意,使全神贯注
 geography  n.地理
 scheme  n.方案, 计划, 阴谋 v.计画, 设计, 体系, 结构, 图谋
@@ -4732,6 +4711,7 @@ baggage  n.行李
 jump  n.跳跃,跳动,上涨 vt.&vi.跳越,突升,惊跳
 draw  v.(drew, drawn) 拉, 拖, 挨近, 提取, 画, 绘制 n.平局; 抽签; 拉, 拽吸引人的事物
 partial  adj.部分的,偏袒的,偏爱的 n.泛音
+nap  n.小睡,绒毛表面 vi.小睡,疏忽 vt.使起毛
 lorry  n.卡车
 consume  vt. 消耗，毁灭，吃，喝, 挥霍 vi.耗尽生命, 被烧毁
 likely  adj.可能的,合适的,可信的,有前途的,有吸引力的 adv.很可能
@@ -4772,6 +4752,7 @@ disappear  vi.消失,灭绝 vt.引起消失
 numb  adj.麻木的,失去知觉的,无动于衷的 vt.使...麻木,使...昏迷,使...失去知觉
 low  n.低,低点(价),深度,牛叫声 adj.低的,消沉的,低等的,粗俗的,衰弱的 vi.牛叫
 besides  prep.除...之外 adj.别的 adv.也,此外
+treasure  n.宝物,财富 v.珍爱,重视,储藏
 virtual  adj.虚拟的；有效的；实质上的，事实上的
 relative  adj.相对的,比较的,涉及到的 n.亲属,同类事物,相关物
 flush  n.流溢, 面红, 旺盛, 冲水(尤指冲马桶), 突然萌发, (纸牌)同花顺, 清一色 [计算机] 冲洗 vi.脸发红, 冲刷, 旺盛成长 vt.用水冲洗, 惊起(一群鸟), 抄...老窝, 使兴奋 adj.丰足的,齐平的,满盈的 adv.正直地, 羞涩地
@@ -5124,6 +5105,7 @@ best  adj.最好的 adv.最,最好地 n.最好的人(或物) vt.胜于
 classmate  n.同班同学
 okay  n.认可，同意 v.赞成或同意； 批准 int.行，用以表达准许或同意之意 adj.可以，不错
 pave  v.铺设, 安排, 为...铺路
+penny  n.便士,小钱,少量
 nonsense  n.无意义的事,荒谬的言行,荒唐
 brutal  adj.野蛮的,残暴的
 evade  v.规避, 逃避, 躲避
@@ -5135,6 +5117,7 @@ manager  n.经理
 accuracy  n.准确(性), 精确度
 dynasty  n.朝代, 王朝
 eat  vt.吃,消耗 vi.吃,侵蚀 n.食物
+greeting  n.问候,打招呼
 guidance  n.引导,指导,导航系统
 need  n.需要,必须,缺乏 v.需要,必需 conj.需要
 guard  n.守卫者,警戒, 护卫队, 保护 vt.&vi.保卫,看守,警惕
@@ -5215,6 +5198,7 @@ loud  adj.大声的,吵闹的,难闻的 adv.响亮地,大声地
 necessity  n.需要, 必需品, 必然
 piston  n.活塞
 complicated  adj.复杂的, 难懂的
+priority  n.优先权, 优先顺序, 优先
 seaside  adj.海边(的), 海滨(的) n.海边
 free  adj.自由的,大方的,免费的 vt.释放,解放 adv.自由地,免费地
 favorable  adj.有利的,赞许的,良好的,顺利的,偏袒的
@@ -5487,6 +5471,7 @@ tired  adj.疲劳的,累的,厌烦的
 leaf  n.树叶,页,活动桌板,花瓣 vt.翻页 vi.长叶子,翻页浏览
 episode  n.插曲,插话,(作品的一段)情节,有趣的事件
 item  n.项目,条款， 一件商品（或物品） adv.也
+derive  v.得自, 起源, 引申于
 arithmetic  n.算术
 shoot  n.射击,芽,发射 vt.射击,发出,发芽 vi.飞驰
 musical  adj.音乐的 n.音乐片
@@ -5554,6 +5539,7 @@ unfold  v.展开, 开放, 显露
 massacre  n.大屠杀 v.大屠杀
 cooperate  vi.合作,协力
 scientific  adj.科学的
+concept  n.概念, 观念
 until  prep.直到...为止 conj.直到...时才...
 frontier  n.边界,边境，尖端，边缘
 jealous  adj.妒忌的,戒备的
@@ -5635,6 +5621,7 @@ stadium  n.露天体育场,竞技场
 lie  n.谎言 v.躺着, 说谎, 位于
 odds  n.让步,机率,可能性,比率,胜败优劣之别
 equation  n.相等,方程(式),等式,均衡
+inhabitant  n.居民
 pump  n.抽水机, 打气筒, 心脏, 抽水, 轻软舞鞋 vt.抽水, 打气, 用泵输送, 盘问, 涌出 vi.用泵抽水, 快速上下(或内外)运动
 recover  vt.恢复； 重新获得； 找回； <正>恢复（适当的状态或位置） vi.恢复健康（体力、能力等） n.恢复开始时姿势
 bee  n.蜜蜂
@@ -5706,6 +5693,7 @@ voltage  n.电压
 constituent  n.成份,选民,构成物 adj.构成的,组织的,有提名权的
 during  prep.在...期间
 prior  adj.更重要的, 较早的, 在先的 adv.居先 n.小修道院院长; 大修道院副院长
+sail  n.帆,乘船航行 vt.乘船航行,浮游,启航 vi 驾船航行
 stoop  n.佝偻, 屈服 v.弯下, 弯下上身, 屈服
 rape  n.抢夺,掠夺,强奸 vt.掠夺,抢夺,强奸
 diagnose  v.诊断 vi.判断,诊断(疾病) vt.诊断(疾病)
@@ -5757,6 +5745,7 @@ variable  adj.可变的,易变的 n.变量, 易变的东西
 laundry  n.洗衣店, 要洗的衣服, 洗衣
 shape  n.形状,形式,定形,身材 vt.定形,使...成形,塑造
 sequence  n.序列, 一系列, 顺序, 一组镜头 vt.安排顺序
+definition  n.定义, 阐释，清晰度
 excitement  n.激动, 兴奋
 hesitate  vi.犹豫, 停顿，口吃，迟疑，踌躇 vt.用犹疑的态度表示
 moss  n.苔藓, (苏格兰)泥沼 vt.使…长满苔藓
