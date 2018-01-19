@@ -111,7 +111,7 @@ innumerable  adj.无数的, 数不清的
 summarize  vt.&vi.概述,摘要而言
 summary  n.摘要,概要 adj.摘要的,简略的
 execution n. 处决
-damage  n.损坏, 毁坏 vt.损害, 毁坏
+damage  n.损坏, 毁坏 vt.损害, 毁坏  ==damages 赔偿金
 innocent  adj.无罪的, 不懂事的, 无知的, 无辜的
 crime  n.犯罪, 羞耻, 罪行
 innocence n. 清白, 无辜
@@ -1767,7 +1767,6 @@ tonight  n.&adv.今晚
 rigorous  adj.严格的(rigorous law or discipline), 严酷的(regime or climate), 细致的(check or assessment)
 law  n.法规,规律,起诉,法则 vi.起诉
 discipline  n.纪律, 惩罚, 学科 vt.训导(discipline that child)
-regime  n.政权, 管理体制
 climate  n.气候, 风气, 气氛
 major  n.陆军少校, 主修课程(what's your major), 主修学生(the English major) adj.重大的(major change or road(主道) or problem or part(大部分)) vi.主修(major in computer)
 paragraph  n.段落 vt.将...分段
@@ -4613,22 +4612,29 @@ network  n.网络,系统,广播网 vt.用网覆盖,联网 vi.加入网络
 accident  n.事故(a slight/serious/fatal accident), 意外的事(by accident 意外, it is no accident that ... 绝非偶然)
 supervise  vt.监管(worker or team or child or job or operation, a supervised playground) ==observe and direct the execution of a task, project, or activity
 engineering  n.工程学(civil/chemical engineering 土木/化学工程), 机械制造业(light/heavy engineering) 
-
-sue  vt.控告, 起诉 vi.请求, 追求, 起诉 n.(Sue)人名；(日)末(名)；(法)休；(英)休(女子教名Susan、Susanna的昵称)
-gown  n.长袍，长外衣； 女长服； 罩袍； 大学的学生和教师
-rake  n.耙子, 集赌金工具, 向船尾的倾斜 v.向船尾, 了望, 用耙子
-drip  n.滴, 点滴, 乏味的人, 水滴 v.滴下, 漏水
-prick  v.刺, 穿, 受责备 n.扎, 逗点, 锥
-nylon  n.尼龙 （复数）nylons：女长袜
-harsh  adj.粗糙的, 使人不舒服的，刺耳的, 严厉的，大约的
-helmet  n.头盔, 遮阳帽, 盔甲
-motive  adj.发动的,运动的,积极的,动机的 n.动机, 主题 vt.促使, 使有动机
-irrigate  vi.进行灌溉 vt.灌溉
-brochure  n.小册子
-bewilder  vt.使迷惑，使...不知所措
-
-bow  n.弓,船头,鞠躬，蝴蝶结，两手准备 vi.鞠躬, 成弓形，弯腰, 首次上演，屈服，听从，尊重 vt.重压，弯曲，
-upon  prep.在...上
+sue  vt.控告(to sue sb for libel/negligence 控告某人诽谤/玩忽职守, she's suing him for divorce/damages 起诉请求离婚/赔偿) vi.起诉, 请求宽恕(to sue for pardon)
+libel n.&&vt.诽谤
+negligence  n.疏忽(medical negligence 医疗事故)
+gown  n.长袍(a BA gown 学士服), 女礼服(a wedding gown)
+rake  n.耙 vt.耙(to rake sth into a pile, to rake sth over, she raked a comb through her hair)
+drip  n.液滴, 滴下, 滴水声 v.滴下
+prick  vt.刺穿(to prick a hole in sth), 刺痛(i pricked myself/my finger on a thorn, prick one's confidence) n.刺(give sb a prick)
+nylon  n.尼龙 ==nylons：女长袜
+harsh  adj.严酷的(judgement or punishment or rule or regime or climate ==cruel and severe), 粗糙的(harsh cloth), 刺耳刺眼的(sound or color)
+severe  adj.剧烈的, 严重的, 严峻的, 严厉的, 严格的
+regime  n.政权(a puppet/totalitarian/harsh regime), 管理体制
+puppet  n.木偶, 傀儡
+totalitarian  n.极权主义者 adj.极权的
+helmet  n.头盔
+motive  n.动机(sb's motive in doing sth, profit motive, a motive of murder) adj.引起运动的(motive force 原动力, she was the motive force behind the decision)
+irrigate  vt.灌溉(irrigate the fields and crops), 冲洗(irrigate the wound or body)
+brochure  n.小册子, 指南
+bewilder  vt.使...迷惑(she seemed frightened and bewildered)
+bow  n.弓, 蝴蝶结, 鞠躬 vi.鞠躬(to bow to sb.), 让步(to bow to sth), 弯曲(the plank bowed) vt.弯曲(bow your back), 鞠躬表示(the chairman bowed his consent)
+plank  n.木板(to be as thick as two short planks 笨的要命), 要点(the central plank of the bill is the curb on industrial polluters)
+curb  n.控制(a curb on sth) vt.控制限制(curb feelings or inflation or public spending)
+polluter  n.污染物
+upon  prep.在...上(it was based upon two principles) ==more formal term for on, especially in abstract senses
 false  adj.不真实的,错误的,人造的,假的,虚伪的 adv.不真诚地,虚伪地
 union  n.联盟,结合,政党,工会,连接轴 adj.联邦政府的,工会的
 summer  adj.夏季的 n.夏天, 全盛期, 年 vi.度过夏天 vt.在夏天保存或存放, 放(羊/牛)
@@ -4636,57 +4642,63 @@ always  adv.总是
 native  adj.本国的, 本土的, 出生地的, 天生的 n.本地人,土著人
 merely  adv.仅仅, 只不过
 century  n.世纪, 一百年, 成百的东西
-distant  adj.遥远的,疏远的，远房的，陌生的，远行的
+distant  adj.遥远的, 疏远的, 远房的, 陌生的, 远行的
 education  n.教育, 培养
-expansion  n.扩大, 膨胀, 扩充
-companion  n.同伴, 同事, 成对物品之一, (船的)甲板间扶梯(或扶梯的顶篷) vt.&vi.陪伴
-component  n.元件, 组件, 成份 adj.组成的, 构成的
-fertilizer  n.肥料
+expansion  n.扩大(the rapid expansion of suburban Washington), 膨胀, 扩充
+suburban  adj.郊区的(suburban development, the suburban sprawl), 乏味古板的(a suburban lifestyle)
+sprawl  vi.伸展四肢坐躺倒(to sprawl across/in/on sth), 蔓延拓展(to sprawl out) n.杂乱无序扩展的地区(the suburban sprawl)
+companion  n.同伴(travelling companions), 伙伴(a dinner companion), 成对物品之一(companion volume 姊妹卷)
+component  n.零件元件(car/bicycle components), 要素 adj.组成的(light passed through a prism breaks up into its component colors)
+fertilizer  n.肥料(these varieties need pesticides and more fertilizer)
+pesticide  n.杀虫剂(crops treated with pesticide)
 one  n.一, 第一个, 一美元纸币 adj.单一的, 某一个, 同一种类的, 同意的, 唯一的 pron.某人, 任何人
-verge  n.边缘
-retire  n.退休,退职 vi.&vt.退休,撤退
-enrich  vt.使富足,使肥沃，添加元素
-thrift n.n.节俭, 节约
-punish  惩罚, 处罚
-crucial  adj.关键的,决定性的
-battery  n.电池,一系列,排炮
-improve  vt.改进,利用,(提高)价值 vi.改进
-worldwide  adj.全世界的
-productive  adj.能生产的；有生产价值的；多产的；有效率的
-indispensable  adj.不可缺少的
+verge  n.边缘(to be on the verge of sth/doing sth, they came down to the verge of the lake)
+retire  vi.退休(to retire early), 退下(the jury retired from the courtroom), 就寝, 退出比赛(to retire injuried) vt.使...退休
+enrich  vt.使富足(mind or experience or person), 使肥沃(field), 使...浓缩(enriched uranium)
+thrift  n.节俭(to practise or exercise thrift)
+punish  vt.惩罚(to punish sb for sth), 粗暴对待(a rise in prescription charges would punish the poor)
+crucial  adj.至关重要的(to be crucial to or for sth, negotiations were at a crucial stage)
+battery  n.电池(recharge one's battery 恢复体力), 一系列(a battery of equipment to monitor blood pressure)
+recharge  vt.给...充电
+improve  vt.改进, 利用, (提高)价值 vi.改进
+worldwide  adj.世界范围内的(attention or recognition or market or network)
+productive  adj.高产的有成效的(productive industry or methods or land or meeting or collaboration or life or experience) ==producing or able to produce large amounts of goods, crops, or other commoditie
+indispensable  adj.不可缺少的(to be indispensable to sb/sth or for doing sth, an indispensable necessity)
+necessity  n.必要(from or out of necessity), 必需品(love is my necessities), 必需的措施
+dear  adj.亲爱的, 昂贵的 adv.昂贵地(buy cheap and sell dear) n.亲爱的人可爱的人(my dear) int.哎呀(oh, dear)
+coil  n.卷(smoke rise in coil), 一卷(a coil of cable), 线圈 vt.&vi.盘绕,卷
+composite  adj.合成的(it's a composite picture) n.合成物(to be a composite of sth and sth)
+curriculum  n.课程(to be on the curriculum 列入课程)
+nonetheless  adv.尽管如此(thanks nevertheless, she saw me, but nevertheless pretended not to recognize me, he's stupid, but I like him nevertheless)
+pair  n.双, 对, 副 vt.使...成对(pair sockets), 搭配(to pair the sb/sth with sb/sth) vi.交配, 结婚
+happy  adj.快乐的,幸福的,乐于做某事
+teach  vt.教,教书,教导，教训 vi.给予指导
+effort  n.努力, 努力的成果
+harvest  n.收获, 成果, 收获物 vt.&&vi.收割, 收获
+crab  n.蟹, 爱争吵的人 vi.发牢骚
+ferry  n.渡船(by ferry) vt.运送(to ferry sb to school/the station)
+outfit  n.全套服装(a tennis outfit), 全班人马(a small advertising outfit in San Diego) vt.装备(a car outfitted with dual controls for driver training)
+bizarre  adj.奇异的(bizarre clothes 奇装异服)
+cylinder  n.圆柱体, 圆筒, 汽缸
+momentum  n.动力(to gain or gather/lose momentum 动力)
+municipal  adj.市政的(the municipal government 市政府)
 
 --------------------
 
-harvest  n.收获(期),成果,收获物 vt.& vi.收割,收获
-pair  n.双,对,副 vt.& vi.使...成对,配对
-nonetheless  adv.尽管如此(仍然) conj.尽管如此(仍然)
-effort  n.努力, 努力的成果
-happy  adj.快乐的,幸福的,乐于做某事
-composite  adj.合成的,复合的 n.合成物, 复合材料 vt.合成
-coil  n.卷,骚动,【电】线圈, 绕组 vt.&vi.盘绕,卷
-curriculum  n.课程，全部课程
-teach  vt.教,教书,教导，教训 vi.给予指导
-dear  adj.严重的,珍贵的,亲爱的,昂贵的,衷心的 adv.高价地,热爱地 n.亲爱的人,可爱的人 int.啊,哎呀
-northwest  n.西北, 西北方 adj.西北的, 在西北的, 来自西北的 adv.向西北
-ferry  n.渡船,渡口 vt.摆渡,运输 vi.摆渡
-crab  n.蟹 v.捕蟹，使横行 n.爱争吵的人 n.[植]山楂子 v.批评，抱怨
-limited  adj.有限的
-outfit  n.用具,配备,机构,全套服装 vt.配备,供应 vi.得到装备
-worthwhile  adj.值得(做)的
-evident  adj.明显的, 明白的
-intuition  n.直觉, 直觉的知识
-requirement  n.要求,必要条件
-cylinder  n.汽缸, 圆筒, 圆柱体
-serve  v.可作...用, 服务, 对待, 发球 n.发球
-anything  pron.任何事
+much  adj.许多的 adv.很,非常 pron.&n.许多
 quick  adj.快的，急速的； 聪明的，凌厉的； 灵活的； 短时间做成的 adv.迅速地，快速地 n.（指甲下的）活肉； 感情的中枢，感觉最敏锐的地方； 要害，核心
-diligent  adj.勤奋的, 用功的
-bizarre  adj.奇异的,怪诞的 n.奇异花
-momentum  n.动力,要素, 势头,（物理）动量
+serve  v.可作...用, 服务, 对待, 发球 n.发球
+limited  adj.有限的
+evident  adj.明显的, 明白的
 instead  adv.代替, 反而
 typical  adj.典型的, 有代表性的
-much  adj.许多的 adv.很,非常 pron.&n.许多
-municipal  adj.市的,市政的 n.政府证券
+anything  pron.任何事
+diligent  adj.勤奋的, 用功的
+intuition  n.直觉, 直觉的知识
+northwest  n.西北, 西北方 adj.西北的, 在西北的, 来自西北的 adv.向西北
+worthwhile  adj.值得(做)的
+requirement  n.要求,必要条件
+
 chest  n.胸, 大箱子, 金库, 资金, 一箱, 密封室, 衣橱
 common  adj.共同的, 平常的, 普通的 n.平民, 普通, 公地, 公园
 grave  adj.重大的，重要的； 严重的； [音乐]沉重的； （颜色等）朴素的 adv.沉重地，庄重地； 极慢地 n.坟墓，墓穴； 埋葬…的地方； 下场； 死亡 vt.雕刻； 铭记
@@ -4966,7 +4978,6 @@ perfection  n.完美, 完善
 somewhere  adv.在某处，到某种程度，大约，差不多
 preach  vi.传道, 宣扬 vt.讲道, 说教
 accelerate  vt.加速,提前,跳级 vi.加速
-severe  adj.剧烈的, 严重的, 严峻的, 严厉的, 严格的
 while  conj.当...的时候,然而 n.&adj.一会儿 vt.消磨
 lake  n.湖
 acrobat  n.杂技演员，见风使舵的人
@@ -5155,7 +5166,6 @@ disclose  vt.揭露
 police  adj.警察的 n.警察,警方 v.管辖
 release  n.释放, 让渡, 发行 vt.释放, 让与, 准予发表, 发射
 following  n.下列各项,部下,党羽 adj.下列的,其次的 prep.在（某事）以后
-curb  n.抑制,勒马绳,边石,路缘 vt.抑制,束缚, 牵(狗)到合适地方大小便
 allocate  v.分派, 分配, 分配额
 chair  n.椅子,席位,讲座,要职 vt.上任,使担任（某事务）的主席,主持
 harden  v.变硬,使...坚强,涨价
@@ -5263,7 +5273,6 @@ meantime  adv.与此同时 n.其时, 其间
 fetch  n.取得 vt.取来,带来,航行到达 vi.取回,兜圈子
 susceptible  n.易受影响者,易受感染者 adj.易受影响的,易感动的,容许
 loud  adj.大声的,吵闹的,难闻的 adv.响亮地,大声地
-necessity  n.需要, 必需品, 必然
 piston  n.活塞
 complicated  adj.复杂的, 难懂的
 seaside  adj.海边(的), 海滨(的) n.海边
@@ -5506,7 +5515,6 @@ classify  v.分类,归类,分等
 sky  n.天空 v.把...投向空中，将…高挂
 occupy  vt.占领,占,住进
 cling  n.紧抓,紧贴 vi.粘紧,附着,紧贴
-puppet  n.木偶, 傀儡
 diary  n.日记,日记簿
 unfortunately  adv.不幸地
 supermarket  n.超级市场
