@@ -1,85 +1,75 @@
 /** find yourself
 
-discourage  vt.使气馁,阻碍
-throw  n.投,掷,抛, 头巾, 行程 vt.丢,掷,抛,猛动,抬起,挥动 vi.投以
-surplus  adj.多余的,过剩的 n.过剩,剩余物,盈余,顺差
-aggressive  adj.侵略性的；好斗的；有进取心的；有闯劲的
-principle  n.原则, 原理, 主义, 信念
-principal  adj.主要的 n.负责人, 校长, 资本
-discover  vt.& vi.发现
-talent  n.才能, 天资, 人才
-true  adj.确切的,可靠的,真实的,正确的,正式的 adv.笔直地,事实地 n.真相,精确 vt.使...平衡
-gamble  n.冒险 v.赌博, 孤注一掷
-shuttle  n.航天飞机；往返两地的交通工具 vt.使穿梭般来回移动；短程穿梭般运送 vi.穿梭往返
-stair  n.楼梯
-downstairs  adj.楼下的 adv.在楼下 n.楼下
-upstairs  adj.楼上的 adv.在楼上, 往楼上，高水平地，上层地，头脑上地 n.楼上
-blush  n.脸红,外观 vi.泛红,羞愧
-documentary  adj.文献的 n.纪录片
-joke  n.笑话,玩笑 vt.& vi.开玩笑
-bind  vt.绑,约束,装订,粘合
-pail  n.提桶
-barrel  n.桶, 一桶的量, 大量, 枪管, 炮管, 笔管, 汽油桶 vi.快速移动 vt.把...装桶
-scrape  n.刮掉,擦掉,刮擦声 vt.& vi.刮掉,擦掉
-reflection  n.反映,映像,折射,沉思,影响
-involve  vt.包含, 使陷入, 使忙于, 使卷入, 牵涉
-fancy  n.想像力, 幻想, 喜好, 爱 adj.想像的, 时髦的, 华丽装饰的, 奢侈的, 技巧的 vt.想象, 自认为, 喜好
-seat  n.位子,所在地,中心 vi.坐 vt.使坐下,可容纳
-rope  n.绳，绳索 vt.捆，绑 vi.拧成绳状
-raw  adj.生的,未加工的,原始的,不熟练的,寒冷的 n.触到某人的痛处
-cotton  n.棉花,棉 vi.向…讨好，明白，领悟
-row  n.排,船游,吵闹vt.划船,成排vi.划船,吵架
-wise  adj.明智的,有学问的,有智慧的,聪明的 n.方式 vt.引导 vi.学
-owl  n.猫头鹰
-parade  n.游行,阅兵,轮替, 夸耀, 广场 vi.参加游行, 阅兵, 散步, 炫耀 vt.使参加游行, 校阅, 绕行, 夸耀
-some  adj.一些,少许,某一 adv.大约, 在某种程度上 pron.一些,一部份,若干
-musician  n.音乐家，作曲家
-period  n.学时, 课时; 一段时间, 时期, 周期; 句号
-periodical  n.期刊 adj.周期的, 定期的
-finance  n.资金, 财政 vt.给...提供资金
-financial  adj.金融的, 财政的
-question  n.问题,询问,争论点 vt.询问,怀疑 vi.问问题
-slip  vi.滑，滑脱；犯过失，出错；（时间）不知不觉地过去；（健康状况等）变差 vt.使顺利滑动； 摆脱； 放松，松开 n.跌倒，失足； 纸条； 失误，口误； 事故 adj.滑动的； 可拆卸的； 打有活结的
-hook  n.钩子,钩拳 vt.&vi.钩住
-slip-up n. 差错
-shoe  n.鞋
-slipper  n.拖鞋
-optional  adj.可以任选的,非强制的
-optical  adj.眼睛的, 视觉的, 光学的
-aid  n.帮助,救护,辅助物 vt.&vi.援助,帮助,救护 abbr.=Agency for International Development 国际开发署[美]
-tempo  n.拍子, 速率
-neck  n.脖子,颈
-rust  n.铁,锈 vi.生锈,变成红棕色 vt.使...生锈,损害
-crust  n.外壳,坚硬的外壳,面包皮 vt.盖以硬皮 vi.结硬皮
-freeze  v.冻结, 冷冻, 僵硬 [计算机] 冻结
-frozen n.冻结
-trust  n.信任,信托 vi.信任 vt.委托,相信
-frustrate  vt.挫败,击败,破坏 adj.无益的,挫败的,挫折的
-thrust  n.推力,刺,力推 vt.& vi.插入,推挤,刺
-dagger n. 匕首
-seed  n.种子 vi.(植物)结实,播种 vt.播种
-hypocrisy  n.伪善
-moral  adj.道德(上)的(on the moral ground), 有道德的 n.寓意(to point the moral, to drawl a moral from sth), 道德(public moral 社会道德), 品行(a women of losing moral)
-morality  n.道德, 美德, 品行, 道德观
-ground  n.土地, 战场, 场地, 根据, 背景 vt.放在地上,使...搁浅,打基础 grind的过去式和过去分词
-conform  vt.使一致,遵守,使顺从 vi.一致,符合
-mural n.壁画
-about  adj.准备 adv.大约 prep.关于
-circus  n.马戏, 马戏团
-clown n.小丑🤡
-circle  n.圆周, 社交圈, 循环 vt.&vi.包围,盘旋,环绕
-circular  adj.圆环形的(pattern), 循环验证的(logic) n.传单, 通知
-square  n.正方形,街区,平方，广场 adj.正方形的,正直的,公正的,结实的 vt.使...成方形,调整，一致 vi.符合 adv.成直角,直接的,正方形地
-bend  v.弯曲, 屈服 n.弯曲(物), 弯道(negotiate the bend) (过去式: bent)
-elbow  n.手肘, 急弯, 扶手 v.用手肘推开, 推挤
-knee  n.膝盖,像膝盖的东西,护膝,屈膝鞠躬 vt.用膝盖顶
-kneel  v.跪(to kneel down)
-dent n. 凹陷
-dentist  n.牙科医生
-dental  adj.牙齿的, 牙科的
-abandon  n.放纵 vt.放弃,遗弃,沉溺
-illuminate  vt.照明,阐释,说明
-sweat  n.汗, 流汗, (因冷凝作用形成在物体表面的)水珠, 艰巨的任务, 焦急状态 vi.出汗, 辛苦工作, 感到焦急 vt.使流汗, 拼命做出...
+torch  n.火炬(to be turned into a human torch 被烧成火人), 手电筒(to shine a torch on sb/sth 拿手电筒照亮)
+retain  vt.保留(property or right,in winter the sea retains heat longer than the land can), 保持(control or dignity), 记住(retained a vivid image of the dream)
+convict  n.囚犯 vt.判决...有罪(convict sb of sth, a convicted drug dealer) vi.判决
+conviction  n.定罪(a conviction for drug trafficking), 坚定信念(to have/lack the courage of one's convictions)
+decrease  n.&&vi.&&vt.减少降低(a decrease in or of sth, number or size or power or price enthusiasm)
+mysterious  adj.神秘的(she was mysterious about herself but said plenty about her husband, a dark, mysterious, windowless building)
+encyclopedia  n.百科全书 |ɪnˌsʌɪklə(ʊ)ˈpiːdɪə|
+port  n.港口, (事情的)意义, (计算机与其他设备的)接口, (船, 飞机等的)左舷 vt.举枪； 持枪； 左转舵 vi.转向左舷 adj.左舷的，左侧的 vt.& vi.转舵（向左），把（舵）转向左边 adv.向左舷，向左
+agree  vt.同意,赞成,承认 vi.同意,一致,符合
+queue  n.行列,长队 v.排队 vi.排长队
+split  n.裂口(a split in a seam), 分裂(a two-way split 分裂成两派), 划分(a split of the profits 利润的分配) adj.裂开的(to give sb a split lip 把某人的嘴唇打裂) v.切开劈开, 分开, 使分裂
+agency  n.代理代理处(to get sb through an agency, to have the sole agency for 独家代理, by or through the agency of sb 通过某人在中间斡旋), 专门机构, 作用(by the agency of erosion)
+agent  n.代理人, 特工, 动因(wind is the agent of plant pollination)
+pollination  n.授粉
+drum  n.鼓, 敲击声(the drum of rain on the roof), 大桶, 滚筒 vi.击鼓, 作鼓声(to drum on the table with one's fingers) vt.用...有节奏的敲击(to drum one's feet on the floor)
+greedy  adj.贪婪的(a politician greedy for power, a man greedy for success)
+diagram  n.示意图, 图表
+hydrogen  n.氢 |ˈhʌɪdrədʒ(ə)n|
+unanimous  adj.意见一致的(the members are unanimous in sth/doing sth), 一致的(to be elected by a unanimous vote 全票当选)
+walk  n.散步,步行,生活 vt.走过,走路,遛(狗),巡视 vi.走路
+finally  adv.最后, 最终
+hopeful  adj.有希望的
+declaration  n.宣布(a declaration of war or income or love), 宣言(the Declaration of Independence/Human Rights 独立宣言/人权宣言), 宣布比赛结束或投票结果(the declaration is expected within the next half hour)
+representative  adj.代表性的(a good representative collection of local flora and fauna), 代表制的(a representative election or assembly) n.代表(union representatives 工会代表), 销售代表(area or local or regional or sole representative), 众议员
+flora  n.植物群(flora and fauna)
+fauna  n.动物群
+dean  n.学院院长, 系主任
+graze  vt.放牧(graze the cattle or grassland), 擦伤(to graze one's knee), 擦过(a bullet grazed his cheek)  vi.(牛, 羊等)吃草(put cattle/sheep out to graze), 吃零食(graze on sweets), 轻擦(our bumpers just grazed) n.擦伤
+cloak  n.披风, 掩饰(to be a cloak for sth, to lift the cloak of secrecy) vt.给...披上披风(she cloaked herself in black), 遮掩(negotiations were cloaked in secrecy, the horror of war was cloaked in the trappings of chivalry)
+trapping  n.陷阱
+chivalry  n.骑士制度, 骑士品质, 彬彬有礼
+calcium  n.钙 |ˈkalsɪəm|
+situate  vt.使...位于(the pilot light is usually situated at the front of the boiler), 将...置于(the book situates the danger in its real context)
+pilot  n.飞行员,领航员,引航员 vt.领航,驾驶,向导 adj.引导的,示范的
+boiler  n.锅炉
+situated  adj.位于(to be situated next to/in sth), 处于...状况的(how are you situated financially)
+punctual  adj.准时的(to be punctual for sth/in doing sth)
+fame  n.名声(fame and fortune 名利, to rise to fame)
+castle  n.城堡(an Englishman's home is his castle 强调隐私的重要性)
+little  adj.小的 adv.毫不，少量地 n.几乎没有（指数量或程度等）
+exclude  vt.不包含(price excludes drinks), 拒绝(to exclude sb from sth/doing sth), 不让进入(air or water or draught), 排除(possibility or doubt)
+institute  n.机构(the Women's Institute 妇女协会, a research institute 研究院) vt.开始实行(to institute legal proceedings against sb, to institute inquiries into sth)
+residence  n.住宅(a permanent residence), 居住(you need three years' residence in the country before you can apply for citizenship)
+precedent  n.先例(there are substantial precedents for using interactive media in training )
+substantial  adj.可观的(substantial damages 巨额赔偿金, a substantial majority 绝大多数, amount), 结实的, 丰盛的(meal), 真实的(spirits are shadowy, human beings substantial) 
+interactive  adj.互相作用的(substance or group or ideas), 交互的(an interactive computer/display/map)
+shadowy  adj.幽暗的(room), 模糊的(image or outline), 神秘莫测的(person)
+dew  n.露水(a cold, heavy dew dripped from the leaves) |ˈdjuː|
+kite  n.风筝(to fly a kite, to be as high as a kite)
+doll  n.玩偶(dolls' clothes), 俊妞(she is quite a doll), 好心人(would you be a doll and set the table 摆放餐具) 
+coke  n.可口可乐, 焦炭, 可卡因
+fluid  n.液体(body fluids), 流体 adj.流体的流动的(substance), 不稳定的(situation or idea), 流畅优美的(movements or sytle)
+shady  adj.成荫荫凉的(shady spot or garden or grove or tree), 靠不住(businessman)
+grove  n.树丛(a shady grove)
+strap  n.带子(a watch with a leather strap), 绷带, 皮鞭(to give sb the strap) vt.用带子捆扎(the load needs to be strapped more tightly), 用绷带包扎(starp the wound)
+load  n.负荷(a lorry-/plane-load of sth 一车一飞机某物, to heavy load to bear), 装载量(this beam has a load of 10 tonnes), 大量的(a load of sth) v.装载, 装填, 担负, 给(枪)装子弹 [计算机] 装入
+clutch  vt.抓紧(to clutch sth in one's hand) n.抓紧, 抢夺(to make a clutch at sth), 离合器, 一窝一批一群  ==clutchs n.控制(to escape from ones' clutchs)
+appendix  n.附录, 阑尾
+affiliate  n.附属机构(an affiliate member 成员, an affiliate professor 加盟教授) vt.使...隶属(to be affiliated to or with sb/sth) vi.并入(society or member affiliated into)
+prosecute  vt.对...提起公诉(to prosecute sb for sth/doing sth), 继续进行(war or inquery or study)
+not  adv.不 
+off  adj.远的,休假的,空闲的,落后懈怠的 adv.离开,出发,距离隔断,分割,不继续运行,下台 prep.离开,脱落,下班 vi.离开, 走开
+hear  vt.&vi.听到, 得知, 倾听, 听证
+haul  n.大批赃物(a haul of jewellery), 一网的捕获量(a fine hual of fishes), 路程(it's going to be a long haul), 一段时间(a long/short haul to sth) vt.拖(haul goods or barge), 运输(hual goods or coal) vi.逆风而行(ship or vessel), 改变航向
+barge  n.大型平底船 vt.闯出(she barged her way to the front of the queue 她硬闯到队伍前面去了) vi.冲撞(to barge past sb 横冲直撞地挤过某人身边)
+chef  n.厨师 主厨
+guide  vt.引路, 指导, 操纵, 影响 n.指导者, 向导, 导游, 有指导意义的事物
+where  adv.哪里，在哪里； 到哪里； 某种情势或位置 conj.在...的地方 n.地方, 场所 pron.哪里
+image  n.图像,影像,肖像,想像,形象 vt.想像,描绘,反映
+inform  vt.通知(to inform sb of or about sth), 赋特征于(the sense of justice which informs all her writings) vi.告发(to inform against or on sb)
 bead n.珠子 (beads of sweat)
 drawback  n.不利点 (a drawback of sth(to do sth) 不利之处)
 shortcoming  n.短处, 缺点(the shortcoming of sth 缺点)
@@ -4900,76 +4890,89 @@ broadcast  n.广播, 广播节目 adj.广播的 vt.&&vi.广播 adv.经广播
 
 --------------------
 
-torch  n.火炬(to be turned into a human torch 被烧成火人), 手电筒(to shine a torch on sb/sth 拿手电筒照亮)
-retain  vt.保留(property or right,in winter the sea retains heat longer than the land can), 保持(control or dignity), 记住(retained a vivid image of the dream)
-convict  n.囚犯 vt.判决...有罪(convict sb of sth, a convicted drug dealer) vi.判决
-conviction  n.定罪(a conviction for drug trafficking), 坚定信念(to have/lack the courage of one's convictions)
-decrease  n.&&vi.&&vt.减少降低(a decrease in or of sth, number or size or power or price enthusiasm)
-mysterious  adj.神秘的(she was mysterious about herself but said plenty about her husband, a dark, mysterious, windowless building)
-encyclopedia  n.百科全书 |ɪnˌsʌɪklə(ʊ)ˈpiːdɪə|
-port  n.港口, (事情的)意义, (计算机与其他设备的)接口, (船, 飞机等的)左舷 vt.举枪； 持枪； 左转舵 vi.转向左舷 adj.左舷的，左侧的 vt.& vi.转舵（向左），把（舵）转向左边 adv.向左舷，向左
-agree  vt.同意,赞成,承认 vi.同意,一致,符合
-queue  n.行列,长队 v.排队 vi.排长队
-split  n.裂口(a split in a seam), 分裂(a two-way split 分裂成两派), 划分(a split of the profits 利润的分配) adj.裂开的(to give sb a split lip 把某人的嘴唇打裂) v.切开劈开, 分开, 使分裂
-agency  n.代理代理处(to get sb through an agency, to have the sole agency for 独家代理, by or through the agency of sb 通过某人在中间斡旋), 专门机构, 作用(by the agency of erosion)
-agent  n.代理人, 特工, 动因(wind is the agent of plant pollination)
-pollination  n.授粉
-drum  n.鼓, 敲击声(the drum of rain on the roof), 大桶, 滚筒 vi.击鼓, 作鼓声(to drum on the table with one's fingers) vt.用...有节奏的敲击(to drum one's feet on the floor)
-greedy  adj.贪婪的(a politician greedy for power, a man greedy for success)
-diagram  n.示意图, 图表
-hydrogen  n.氢 |ˈhʌɪdrədʒ(ə)n|
-unanimous  adj.意见一致的(the members are unanimous in sth/doing sth), 一致的(to be elected by a unanimous vote 全票当选)
-walk  n.散步,步行,生活 vt.走过,走路,遛(狗),巡视 vi.走路
-finally  adv.最后, 最终
-hopeful  adj.有希望的
-declaration  n.宣布(a declaration of war or income or love), 宣言(the Declaration of Independence/Human Rights 独立宣言/人权宣言), 宣布比赛结束或投票结果(the declaration is expected within the next half hour)
-representative  adj.代表性的(a good representative collection of local flora and fauna), 代表制的(a representative election or assembly) n.代表(union representatives 工会代表), 销售代表(area or local or regional or sole representative), 众议员
-flora  n.植物群(flora and fauna)
-fauna  n.动物群
-dean  n.学院院长, 系主任
-graze  vt.放牧(graze the cattle or grassland), 擦伤(to graze one's knee), 擦过(a bullet grazed his cheek)  vi.(牛, 羊等)吃草(put cattle/sheep out to graze), 吃零食(graze on sweets), 轻擦(our bumpers just grazed) n.擦伤
-cloak  n.披风, 掩饰(to be a cloak for sth, to lift the cloak of secrecy) vt.给...披上披风(she cloaked herself in black), 遮掩(negotiations were cloaked in secrecy, the horror of war was cloaked in the trappings of chivalry)
-trapping  n.陷阱
-chivalry  n.骑士制度, 骑士品质, 彬彬有礼
-calcium  n.钙 |ˈkalsɪəm|
-situate  vt.使...位于(the pilot light is usually situated at the front of the boiler), 将...置于(the book situates the danger in its real context)
-pilot  n.飞行员,领航员,引航员 vt.领航,驾驶,向导 adj.引导的,示范的
-boiler  n.锅炉
-situated  adj.位于(to be situated next to/in sth), 处于...状况的(how are you situated financially)
-punctual  adj.准时的(to be punctual for sth/in doing sth)
-fame  n.名声(fame and fortune 名利, to rise to fame)
-castle  n.城堡(an Englishman's home is his castle 强调隐私的重要性)
-little  adj.小的 adv.毫不，少量地 n.几乎没有（指数量或程度等）
-exclude  vt.不包含(price excludes drinks), 拒绝(to exclude sb from sth/doing sth), 不让进入(air or water or draught), 排除(possibility or doubt)
-institute  n.机构(the Women's Institute 妇女协会, a research institute 研究院) vt.开始实行(to institute legal proceedings against sb, to institute inquiries into sth)
-residence  n.住宅(a permanent residence), 居住(you need three years' residence in the country before you can apply for citizenship)
-precedent  n.先例(there are substantial precedents for using interactive media in training )
-substantial  adj.可观的(substantial damages 巨额赔偿金, a substantial majority 绝大多数, amount), 结实的, 丰盛的(meal), 真实的(spirits are shadowy, human beings substantial) 
-interactive  adj.互相作用的(substance or group or ideas), 交互的(an interactive computer/display/map)
-shadowy  adj.幽暗的(room), 模糊的(image or outline), 神秘莫测的(person)
-dew  n.露水(a cold, heavy dew dripped from the leaves) |ˈdjuː|
-kite  n.风筝(to fly a kite, to be as high as a kite)
-doll  n.玩偶(dolls' clothes), 俊妞(she is quite a doll), 好心人(would you be a doll and set the table 摆放餐具) 
-coke  n.可口可乐, 焦炭, 可卡因
-fluid  n.液体(body fluids), 流体 adj.流体的流动的(substance), 不稳定的(situation or idea), 流畅优美的(movements or sytle)
-shady  adj.成荫荫凉的(shady spot or garden or grove or tree), 靠不住(businessman)
-grove  n.树丛(a shady grove)
-strap  n.带子(a watch with a leather strap), 绷带, 皮鞭(to give sb the strap) vt.用带子捆扎(the load needs to be strapped more tightly), 用绷带包扎(starp the wound)
-load  n.负荷(a lorry-/plane-load of sth 一车一飞机某物, to heavy load to bear), 装载量(this beam has a load of 10 tonnes), 大量的(a load of sth) v.装载, 装填, 担负, 给(枪)装子弹 [计算机] 装入
-clutch  vt.抓紧(to clutch sth in one's hand) n.抓紧, 抢夺(to make a clutch at sth), 离合器, 一窝一批一群  ==clutchs n.控制(to escape from ones' clutchs)
-appendix  n.附录, 阑尾
-affiliate  n.附属机构(an affiliate member 成员, an affiliate professor 加盟教授) vt.使...隶属(to be affiliated to or with sb/sth) vi.并入(society or member affiliated into)
-prosecute  vt.对...提起公诉(to prosecute sb for sth/doing sth), 继续进行(war or inquery or study)
-not  adv.不 
-off  adj.远的,休假的,空闲的,落后懈怠的 adv.离开,出发,距离隔断,分割,不继续运行,下台 prep.离开,脱落,下班 vi.离开, 走开
-hear  vt.&vi.听到, 得知, 倾听, 听证
-haul  n.大批赃物(a haul of jewellery), 一网的捕获量(a fine hual of fishes), 路程(it's going to be a long haul), 一段时间(a long/short haul to sth) vt.拖(haul goods or barge), 运输(hual goods or coal) vi.逆风而行(ship or vessel), 改变航向
-barge  n.大型平底船 vt.闯出(she barged her way to the front of the queue 她硬闯到队伍前面去了) vi.冲撞(to barge past sb 横冲直撞地挤过某人身边)
-chef  n.厨师 主厨
-guide  vt.引路, 指导, 操纵, 影响 n.指导者, 向导, 导游, 有指导意义的事物
-where  adv.哪里，在哪里； 到哪里； 某种情势或位置 conj.在...的地方 n.地方, 场所 pron.哪里
-image  n.图像,影像,肖像,想像,形象 vt.想像,描绘,反映
-inform  vt.通知(to inform sb of or about sth), 赋特征于(the sense of justice which informs all her writings) vi.告发(to inform against or on sb)
+discourage  vt.使气馁,阻碍
+throw  n.投,掷,抛, 头巾, 行程 vt.丢,掷,抛,猛动,抬起,挥动 vi.投以
+surplus  adj.多余的,过剩的 n.过剩,剩余物,盈余,顺差
+aggressive  adj.侵略性的；好斗的；有进取心的；有闯劲的
+principle  n.原则, 原理, 主义, 信念
+principal  adj.主要的 n.负责人, 校长, 资本
+discover  vt.& vi.发现
+talent  n.才能, 天资, 人才
+true  adj.确切的,可靠的,真实的,正确的,正式的 adv.笔直地,事实地 n.真相,精确 vt.使...平衡
+gamble  n.冒险 v.赌博, 孤注一掷
+shuttle  n.航天飞机；往返两地的交通工具 vt.使穿梭般来回移动；短程穿梭般运送 vi.穿梭往返
+stair  n.楼梯
+downstairs  adj.楼下的 adv.在楼下 n.楼下
+upstairs  adj.楼上的 adv.在楼上, 往楼上，高水平地，上层地，头脑上地 n.楼上
+blush  n.脸红,外观 vi.泛红,羞愧
+documentary  adj.文献的 n.纪录片
+joke  n.笑话,玩笑 vt.& vi.开玩笑
+bind  vt.绑,约束,装订,粘合
+pail  n.提桶
+barrel  n.桶, 一桶的量, 大量, 枪管, 炮管, 笔管, 汽油桶 vi.快速移动 vt.把...装桶
+scrape  n.刮掉,擦掉,刮擦声 vt.& vi.刮掉,擦掉
+reflection  n.反映,映像,折射,沉思,影响
+involve  vt.包含, 使陷入, 使忙于, 使卷入, 牵涉
+fancy  n.想像力, 幻想, 喜好, 爱 adj.想像的, 时髦的, 华丽装饰的, 奢侈的, 技巧的 vt.想象, 自认为, 喜好
+seat  n.位子,所在地,中心 vi.坐 vt.使坐下,可容纳
+rope  n.绳，绳索 vt.捆，绑 vi.拧成绳状
+raw  adj.生的,未加工的,原始的,不熟练的,寒冷的 n.触到某人的痛处
+cotton  n.棉花,棉 vi.向…讨好，明白，领悟
+row  n.排,船游,吵闹vt.划船,成排vi.划船,吵架
+wise  adj.明智的,有学问的,有智慧的,聪明的 n.方式 vt.引导 vi.学
+owl  n.猫头鹰
+parade  n.游行,阅兵,轮替, 夸耀, 广场 vi.参加游行, 阅兵, 散步, 炫耀 vt.使参加游行, 校阅, 绕行, 夸耀
+some  adj.一些,少许,某一 adv.大约, 在某种程度上 pron.一些,一部份,若干
+musician  n.音乐家，作曲家
+period  n.学时, 课时; 一段时间, 时期, 周期; 句号
+periodical  n.期刊 adj.周期的, 定期的
+finance  n.资金, 财政 vt.给...提供资金
+financial  adj.金融的, 财政的
+question  n.问题,询问,争论点 vt.询问,怀疑 vi.问问题
+slip  vi.滑，滑脱；犯过失，出错；（时间）不知不觉地过去；（健康状况等）变差 vt.使顺利滑动； 摆脱； 放松，松开 n.跌倒，失足； 纸条； 失误，口误； 事故 adj.滑动的； 可拆卸的； 打有活结的
+hook  n.钩子,钩拳 vt.&vi.钩住
+slip-up n. 差错
+shoe  n.鞋
+slipper  n.拖鞋
+optional  adj.可以任选的,非强制的
+optical  adj.眼睛的, 视觉的, 光学的
+aid  n.帮助,救护,辅助物 vt.&vi.援助,帮助,救护 abbr.=Agency for International Development 国际开发署[美]
+tempo  n.拍子, 速率
+neck  n.脖子,颈
+rust  n.铁,锈 vi.生锈,变成红棕色 vt.使...生锈,损害
+crust  n.外壳,坚硬的外壳,面包皮 vt.盖以硬皮 vi.结硬皮
+freeze  v.冻结, 冷冻, 僵硬 [计算机] 冻结
+frozen n.冻结
+trust  n.信任,信托 vi.信任 vt.委托,相信
+frustrate  vt.挫败,击败,破坏 adj.无益的,挫败的,挫折的
+thrust  n.推力,刺,力推 vt.& vi.插入,推挤,刺
+dagger n. 匕首
+seed  n.种子 vi.(植物)结实,播种 vt.播种
+hypocrisy  n.伪善
+moral  adj.道德(上)的(on the moral ground), 有道德的 n.寓意(to point the moral, to drawl a moral from sth), 道德(public moral 社会道德), 品行(a women of losing moral)
+morality  n.道德, 美德, 品行, 道德观
+ground  n.土地, 战场, 场地, 根据, 背景 vt.放在地上,使...搁浅,打基础 grind的过去式和过去分词
+conform  vt.使一致,遵守,使顺从 vi.一致,符合
+mural n.壁画
+about  adj.准备 adv.大约 prep.关于
+circus  n.马戏, 马戏团
+clown n.小丑🤡
+circle  n.圆周, 社交圈, 循环 vt.&vi.包围,盘旋,环绕
+circular  adj.圆环形的(pattern), 循环验证的(logic) n.传单, 通知
+square  n.正方形,街区,平方，广场 adj.正方形的,正直的,公正的,结实的 vt.使...成方形,调整，一致 vi.符合 adv.成直角,直接的,正方形地
+bend  v.弯曲, 屈服 n.弯曲(物), 弯道(negotiate the bend) (过去式: bent)
+elbow  n.手肘, 急弯, 扶手 v.用手肘推开, 推挤
+knee  n.膝盖,像膝盖的东西,护膝,屈膝鞠躬 vt.用膝盖顶
+kneel  v.跪(to kneel down)
+dent n. 凹陷
+dentist  n.牙科医生
+dental  adj.牙齿的, 牙科的
+abandon  n.放纵 vt.放弃,遗弃,沉溺
+illuminate  vt.照明,阐释,说明
+sweat  n.汗, 流汗, (因冷凝作用形成在物体表面的)水珠, 艰巨的任务, 焦急状态 vi.出汗, 辛苦工作, 感到焦急 vt.使流汗, 拼命做出...
+
+--------------------
+
 bottom  n.底部;臀部;船身;水底;服装下面的部分;低洼地;底色;尽头 adj.底部的 vt.给...装底,建立基础,到达底部 vi.到达底部,垫底，降到最低点
 refuse  vt.&&vi.拒绝 n.垃圾, 废弃物 
 tobacco  n.烟草(a tin of tobacco, a tobacco leaf/plant 烟草植株)
